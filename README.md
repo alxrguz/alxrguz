@@ -7,7 +7,7 @@ I try to devote my GitHub to custom UI elements that are similar in appearance a
 
 ## 💼 Work
 Now I'm in my 4th year in ios. The applications that I developed can be found on my website - https://alxrguz.ru.</br>
-By the way, I accept orders for development, for communication you can write to [Mail](mailto:alxrguz@icloud.com) or [Telegram](https://t.me/alxrguz)
+By the way, I accept orders for development, for work or cooperation you can write to [Mail](mailto:alxrguz@icloud.com) or [Telegram](https://t.me/alxrguz)
 
 ## 📱Personal Apps
 
