@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🔭 About Me
-My name is Alexander, I am an iOS developer based in St. Petersburg. I specialize in native development and love quality UI/UX.
+My name is Alexander, I am an iOS developer based in St. Petersburg. I specialize in native development and love quality UI/UX.</br>
 I try to devote my GitHub to custom UI elements that are similar in appearance and functionality to the native ones.
 
 
