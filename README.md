@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**alxrguz/alxrguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 About Me
+My name is Alexander, I am an iOS developer based in St. Petersburg. I specialize in native development and love quality UI/UX.
+I try to devote my GitHub to custom UI elements that are similar in appearance and functionality to the native ones.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work
+Now I'm in my 4th year in ios. The applications that I developed can be found on my website - https://alxrguz.ru.</br>
+By the way, I accept orders for development, for communication you can write to [Mail](mailto:alxrguz@icloud.com) or [Telegram](https://t.me/alxrguz)
+
+## 📱Personal Apps
+
+• [Finance – Expenses and Income](https://apps.apple.com/app/id1521429599)
