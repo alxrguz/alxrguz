@@ -12,3 +12,4 @@ By the way, I accept orders for development, for work or cooperation you can wri
 ## 📱Personal Apps
 
 • [Finance – Expenses and Income](https://apps.apple.com/app/id1521429599)
+• [Currencies - Сonverter & Rates](https://apps.apple.com/app/id6443957774)
